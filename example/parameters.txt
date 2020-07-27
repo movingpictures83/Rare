@@ -1,0 +1,5 @@
+otufile	plugins/Rare/example/asv_abund.norm.transpose.csv
+mapping	plugins/Rare/example/asv_map.csv
+tree	plugins/Rare/example/asv_tax.csv
+detection	0.1
+prevalence	0.5
