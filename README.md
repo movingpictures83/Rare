@@ -19,7 +19,7 @@ prevalence: Maximum relative abundance to be considered rare
 The output prefix will be used for three files:
 prefix.members.csv: Rarest taxa
 prefix.rareindex.csv: A rarity index computed for each sample
-prefix.rarity: Various rarity measurements for each sample
+prefix.rarity.csv: Various rarity measurements for each sample
 
 Format of the otufile CSV:
 - Rows are OTUs, columns are samples
